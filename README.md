@@ -1,2 +1,2 @@
 # WEBSITE-RESPONSIVO
-Projeto acadêmico ilustrativo de um portffólio web para fins de aprofundamento na responsividade frontend.
+Projeto para fins de conhecimento em frontend responsivo com HTML5, CSS3 e JS.
